@@ -4,6 +4,6 @@ public class si{
     int r=2;
     int t=1;
     int simpl=(p*r*t)/100;
-    system.out.println("si is:"+simpl);
+    System.out.println("si is:"+simpl);
   }
 }
